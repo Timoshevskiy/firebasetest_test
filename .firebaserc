@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "fir-test-825d3"
-  }
+    "default": "fir-test-825d3",
+    "Prod": "fir-prod-f0a07"
+  },
+  "targets": {}
 }
