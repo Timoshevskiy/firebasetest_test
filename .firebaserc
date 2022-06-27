@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fir-prod-f0a07",
+    "Prod": "fir-prod-f0a07"
+  },
+  "targets": {}
+}
